@@ -1,0 +1,5 @@
+#DIA4
+This project was the work of a team of two: Théo Le Roux and Vincent Leboulenger
+Our goal was to predict the year of a music with only timber values referring to the music and gathered by Echo Nest API.
+Each model got a poor accuracy and score so we decided to predict a period of 9 years instead of a single year to be able to reach a kind of usable algorithm.
+With a lot of testing, we finally got the model with 54% accuracy using Logistic Regression with a low alpha rate.
